@@ -1,0 +1,87 @@
+// User Settings
+{
+  "auto_complete": false,
+  "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+  "detect_indentation": false,
+  "font_face": "Source Code Pro Medium",
+  "font_size": 12,
+  "highlight_modified_tabs": true,
+  "hot_exit": false,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  // OSX Specific
+  "open_files_in_new_window": false,
+  "tab_size": 2,
+  "theme": "Afterglow.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+  "word_wrap": true
+}
+// SublimeLinter Settings
+{
+    "user": {
+        "debug": true,
+        "delay": 0.25,
+        "error_color": "D02000",
+        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+        "gutter_theme_excludes": [],
+        "lint_mode": "background",
+        "linters": {
+            "csslint": {
+                "@disable": false,
+                "args": [],
+                "errors": "",
+                "excludes": [],
+                "ignore": "",
+                "warnings": ""
+            },
+            "jsl": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "json": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "strict": true
+            },
+            "lessc": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            }
+        },
+        "mark_style": "outline",
+        "no_column_highlights_line": false,
+        "passive_warnings": false,
+        "paths": {
+            "linux": [],
+            "osx": [],
+            "windows": []
+        },
+        "python_paths": {
+            "linux": [],
+            "osx": [],
+            "windows": []
+        },
+        "rc_search_limit": 3,
+        "shell_timeout": 10,
+        "show_errors_on_save": false,
+        "show_marks_in_minimap": true,
+        "syntax_map": {
+            "html (django)": "html",
+            "html (rails)": "html",
+            "html 5": "html",
+            "javascript (babel)": "javascript",
+            "magicpython": "python",
+            "php": "html",
+            "python django": "python",
+            "pythonimproved": "python"
+        },
+        "warning_color": "DB8600",
+        "wrap_find": true
+    }
+}
