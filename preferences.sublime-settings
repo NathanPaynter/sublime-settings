@@ -11,14 +11,19 @@
   [
     "Vintage"
   ],
-  // OSX Specific
   "open_files_in_new_window": false,
+  "scroll_past_end": true,
   "tab_size": 2,
-  "theme": "Afterglow.sublime-theme",
+  "theme": "Afterglow-blue.sublime-theme",
+  "tabs_medium": true,
+  "sidebar_size_13": true,
+  "status_bar_brighter": true,
+  "tabs_label_not_italic": true,
   "translate_tabs_to_spaces": true,
   "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
   "word_wrap": true
 }
+
 // SublimeLinter Settings
 {
     "user": {
@@ -84,4 +89,12 @@
         "warning_color": "DB8600",
         "wrap_find": true
     }
+}
+
+// Markdown Specific
+{
+  "color_scheme": "Packages/Theme - Afterglow/Afterglow-markdown.tmTheme",
+  "draw_indent_guides": true,
+  "trim_trailing_white_space_on_save": false,
+  "word-wrap": true
 }
