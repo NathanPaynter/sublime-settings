@@ -15,4 +15,7 @@ Hosting here so I can copy to other computers cause I'm too lazy to use a usb st
   * contrib-lessc
   * csslint
   * json
-* Theme - Afterglow
+* Themes
+  * Afterglow
+  * Seti_UI
+  * Seti_UX
