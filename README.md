@@ -1,6 +1,6 @@
-# My Sublime Settings
-
-Hosting here so I can copy to other computers cause I'm too lazy to use a usb stick...
+My Sublime Settings
+=======
+>Hosting here so I can copy to other computers cause I'm too lazy to use a usb stick...
 
 ### Installed Packages
 
