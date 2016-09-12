@@ -1,3 +1,44 @@
+// For Seti_UI with Afterglow colorscheme [DEFAULT]
+
+{
+  "auto_complete": false,
+  "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+  "detect_indentation": false,
+  "font_face": "Source Code Pro",
+  "font_size": 13,
+  "highlight_modified_tabs": true,
+  "hot_exit": false,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "open_files_in_new_window": false,
+  "overlay_scroll_bars": true,
+  "scroll_past_end": true,
+  "show_tab_close_buttons": true,
+  "tab_size": 2,
+  "tabs_label_not_italic": true,
+  "theme": "Seti_orig.sublime-theme",
+  "mouse_wheel_tabswitch": true,
+  "Seti_no_scroll_icons": true,
+  "Seti_yellow_label": true,
+  "Seti_no_under_bar": true,
+  "Seti_show_group_arrows": true,
+  "Seti_tabs_big": true,
+  "Seti_top_heading_big": true,
+  "translate_tabs_to_spaces": true,
+  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+  "word_wrap": true
+}
+
+// Markdown Specific
+{
+  "color_scheme": "Packages/Theme - Afterglow/Afterglow-markdown.tmTheme",
+  "draw_indent_guides": true,
+  "trim_trailing_white_space_on_save": false,
+  "word-wrap": true
+}
+
 // User Settings - Afterglow theme
 {
   "auto_complete": false,
@@ -22,6 +63,37 @@
   "translate_tabs_to_spaces": true,
   "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
   "word_wrap": true
+}
+
+// For Seti_UI with Seti_UX colorscheme
+{
+  "theme": "Seti_orig.sublime-theme",
+  "color_scheme": "Packages/Seti_UX/Seti.tmTheme",
+  "auto_complete": false,
+  "detect_indentation": false,
+  "font_face": "Source Code Pro",
+  "font_size": 13,
+  "highlight_modified_tabs": true,
+  "hot_exit": false,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "open_files_in_new_window": false,
+  "overlay_scroll_bars": true,
+  "scroll_past_end": true,
+  "show_tab_close_buttons": true,
+  "tab_size": 2,
+  "tabs_label_not_italic": true,
+  "translate_tabs_to_spaces": true,
+  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+  "word_wrap": true,
+  "Seti_no_blue_bar": true,
+  "Seti_tabs_big": true,
+  "Seti_show_group_arrows": true,
+  "Seti_top_heading_big": true,
+  "Seti_accent": true,
+  "Seti_accent_indigo": true
 }
 
 // SublimeLinter Settings
@@ -94,75 +166,4 @@
         "warning_color": "DB8600",
         "wrap_find": true
     }
-}
-
-// Markdown Specific
-{
-  "color_scheme": "Packages/Theme - Afterglow/Afterglow-markdown.tmTheme",
-  "draw_indent_guides": true,
-  "trim_trailing_white_space_on_save": false,
-  "word-wrap": true
-}
-
-
-// For Seti_UI with Seti_UX colorscheme
-{
-  "theme": "Seti_orig.sublime-theme",
-  "color_scheme": "Packages/Seti_UX/Seti.tmTheme",
-  "auto_complete": false,
-  "detect_indentation": false,
-  "font_face": "Source Code Pro",
-  "font_size": 13,
-  "highlight_modified_tabs": true,
-  "hot_exit": false,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "open_files_in_new_window": false,
-  "overlay_scroll_bars": true,
-  "scroll_past_end": true,
-  "show_tab_close_buttons": true,
-  "tab_size": 2,
-  "tabs_label_not_italic": true,
-  "translate_tabs_to_spaces": true,
-  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
-  "word_wrap": true,
-  "Seti_no_blue_bar": true,
-  "Seti_tabs_big": true,
-  "Seti_show_group_arrows": true,
-  "Seti_top_heading_big": true,
-  "Seti_accent": true,
-  "Seti_accent_indigo": true
-}
-
-// For Seti_UI with Afterglow colorscheme
-
-{
-  "theme": "Seti_orig.sublime-theme",
-  "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
-  "auto_complete": false,
-  "detect_indentation": false,
-  "font_face": "Source Code Pro",
-  "font_size": 13,
-  "highlight_modified_tabs": true,
-  "hot_exit": false,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "open_files_in_new_window": false,
-  "overlay_scroll_bars": true,
-  "scroll_past_end": true,
-  "show_tab_close_buttons": true,
-  "tab_size": 2,
-  "tabs_label_not_italic": true,
-  "translate_tabs_to_spaces": true,
-  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
-  "word_wrap": true,
-  "Seti_no_blue_bar": true,
-  "Seti_tabs_big": true,
-  "Seti_show_group_arrows": true,
-  "Seti_top_heading_big": true,
-  "Seti_accent": true,
 }
