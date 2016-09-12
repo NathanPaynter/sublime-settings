@@ -19,3 +19,5 @@ My Sublime Settings
   * Afterglow
   * Seti_UI
   * Seti_UX
+* DocBlockr
+* Themr
