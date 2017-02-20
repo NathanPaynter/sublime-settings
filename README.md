@@ -19,5 +19,5 @@ My Sublime Settings
   * Afterglow
   * Seti_UI
   * Seti_UX
-* Comment-Snippets - [https://packagecontrol.io/packages/Comment-Snippets](Documentation)
+* Comment-Snippets - [Documentation](https://packagecontrol.io/packages/Comment-Snippets)
 * Themr
