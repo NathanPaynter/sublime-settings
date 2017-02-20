@@ -4,11 +4,11 @@ My Sublime Settings
 
 ### Installed Packages
 
+* Package Control (Obviously)
 * Color Highlighter
 * JSON-Template
 * LESS
 * Markdown Preview
-* Package Control (Obviously)
 * Sass
 * SideBarEnhancements
 * SublimeLinter
@@ -19,5 +19,5 @@ My Sublime Settings
   * Afterglow
   * Seti_UI
   * Seti_UX
-* Comment-Snippets
+* Comment-Snippets - [https://packagecontrol.io/packages/Comment-Snippets](Documentation)
 * Themr
