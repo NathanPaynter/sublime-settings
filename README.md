@@ -21,3 +21,5 @@ My Sublime Settings
   * Seti_UX
 * Comment-Snippets - [Documentation](https://packagecontrol.io/packages/Comment-Snippets)
 * Themr
+* GitSavvy
+* CodeFormatter
