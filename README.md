@@ -4,7 +4,7 @@ My Sublime Settings
 
 ### Installed Packages
 
-* Package Control (Obviously)
+* [Package Control](https://packagecontrol.io/installation) (Obviously)
 * Color Highlighter
 * JSON-Template
 * LESS
